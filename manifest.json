@@ -1,0 +1,142 @@
+{
+  "files": {
+    "docs/1-平安商业综合责任保险（亚马逊）.txt": {
+      "hash": "sha256:f734a8f086b507b7f5b4860774be97c5a174105a51a80685f0028025cf4b7983",
+      "size": 2509,
+      "mtime": 1785383660.0,
+      "ref_doc_id": "628c7f39-d6cf-4ede-95a2-b46bd211a7ef",
+      "node_ids": [
+        "94a4e208-53f3-4bd0-a158-355d7b9b6ed8",
+        "e8d00b1f-06c3-41d7-8383-6b2535f2ac58",
+        "a40fec69-5c95-4075-9e96-3d43557dd092"
+      ]
+    },
+    "docs/2-雇主责任险.txt": {
+      "hash": "sha256:1a172a25e8e7d32a20035123eac8aad488b517465581c558f746201af8728944",
+      "size": 4991,
+      "mtime": 1785383660.0,
+      "ref_doc_id": "ab12be13-b3f9-4102-bee4-e2cd08dcd7f8",
+      "node_ids": [
+        "33a0f4c7-3386-4bd5-87bc-a2a3ad1f40e4",
+        "d70eecd5-8df8-4b0c-98e6-80c7eb2d0670",
+        "7fcbb3d9-af9e-4175-92e0-c72ba312d16c",
+        "c7ae737d-fe46-48ac-8fcc-50473a76962f",
+        "ca83cbf4-8b97-4a20-b56a-860fef80e2d3"
+      ]
+    },
+    "docs/3-平安企业团体综合意外险.txt": {
+      "hash": "sha256:0866f6769961f2519fe023ce5071b66d0b6238b363c8bba321927eda09477d04",
+      "size": 9773,
+      "mtime": 1785383660.0,
+      "ref_doc_id": "f036e560-1242-4638-99f6-581643d8e0f0",
+      "node_ids": [
+        "e61c76ed-6490-48b8-a07e-c27f3282c9e3",
+        "588eac03-c9c8-4a8d-a65f-c07176a62ea0",
+        "d206d0e2-b0c6-4a19-ba1b-3bda1762d0db",
+        "6de8a427-a563-46bb-87d8-92207730715d",
+        "a0f0543c-2472-4582-b1d3-5dec45940936",
+        "2906d2b2-71ef-4e1d-b4ee-1b3d661258bf",
+        "16f5a04e-a687-4240-871d-cf7f08300631",
+        "4ebdd1a3-65f2-49da-8789-e4e132dfc472",
+        "b8462d6d-0e19-49af-b230-eeb4be9ef8ec",
+        "da93addc-03a2-47ad-86b2-22c8572347e9",
+        "244d06aa-d2f4-437b-8060-725c82cec22f",
+        "c7ab753a-a14d-4895-80b9-f38576c3a905"
+      ]
+    },
+    "docs/4-雇主安心保.txt": {
+      "hash": "sha256:981a64a8010d77f26ce3efd01b12fc1116620beb6ce1a34a4e9fee8871491b4d",
+      "size": 2035,
+      "mtime": 1785383660.0,
+      "ref_doc_id": "84f2eeb0-b764-4f84-87a0-0a8acc5d1b35",
+      "node_ids": [
+        "095c43b1-35d2-4f5e-a30f-5dc159b13ec3",
+        "1d24e060-6130-4558-a05b-f763d6ee0666"
+      ]
+    },
+    "docs/5-施工保.txt": {
+      "hash": "sha256:b46400915d98d2d283fe3ca912ada59b1d52e562ef887c775ee95fdaa5c51c70",
+      "size": 4570,
+      "mtime": 1785383660.0,
+      "ref_doc_id": "21545bf9-445f-4f1a-b2c7-8190dd90a170",
+      "node_ids": [
+        "e48daa08-87de-4115-8f82-29601b2c9e8f",
+        "bd18887f-07eb-4286-b792-e009d77930a2",
+        "3af807af-a784-44b9-8ef9-8343ecb28ece",
+        "4001a057-3463-4690-abe3-c44c8827ad6f",
+        "2347b874-6cca-4556-ad86-02a231fab815"
+      ]
+    },
+    "docs/6-财产一切险.txt": {
+      "hash": "sha256:5b198d6397fc75b4a18a0e3aff00241d6223a07a5817f86970d0e9055521ceb8",
+      "size": 1929,
+      "mtime": 1785383660.0,
+      "ref_doc_id": "50249e68-96dc-44cf-a44d-3f520ba78d10",
+      "node_ids": [
+        "9c779d2f-d7de-42b2-a5d7-187383aac8f5",
+        "45e67bbb-ad41-405a-8a90-aaaeb3a11f20"
+      ]
+    },
+    "docs/7-平安装修保.txt": {
+      "hash": "sha256:d952d91ab4f4d61c36f21b824f248073912bcad0bddd3c92db2da5e3080e20bb",
+      "size": 485,
+      "mtime": 1785383660.0,
+      "ref_doc_id": "0a2551b1-1658-4ad9-ac78-9a1c47d66a59",
+      "node_ids": [
+        "695cb0c1-c5a4-43da-94af-5f45da16a9cc"
+      ]
+    },
+    "docs/平安产险交通出行意外伤害保险（互联网版）产品说明.pdf": {
+      "hash": "sha256:8172d66485f62f62775a47d1cffc0cd73c2b48896548e1a761117600c4c65bd8",
+      "size": 83203,
+      "mtime": 1785383660.0,
+      "ref_doc_id": "0bcc3509-695e-4d3d-b0ed-460185490339",
+      "node_ids": [
+        "820277b5-2728-42c2-b702-5b2eed8a0530",
+        "283899f8-d2c0-422d-9a7d-edf37a8a1e10",
+        "e4ca9c79-4cff-4174-ae56-50044ad7ff3f",
+        "5bf90ca9-8199-4465-8e3a-937a9279d073"
+      ]
+    },
+    "docs/平安产险交通工具意外伤害保险（互联网版）条款.pdf": {
+      "hash": "sha256:230bd760dc89ca163288272e36e2550920a9ed409769561a8fa3e2757e6efce5",
+      "size": 317794,
+      "mtime": 1785383660.0,
+      "ref_doc_id": "3a7f7380-ceec-479a-906a-0c8b535765c3",
+      "node_ids": [
+        "3dbf6a90-1245-43a3-8eaa-68539b6722bf"
+      ]
+    },
+    "docs/平安企业团体综合意外险(互联网版)适用条款.pdf": {
+      "hash": "sha256:d6447029d40f16f67c41d8facf49e89b3aa923bb70be4a46db0af525ae7993f9",
+      "size": 299840,
+      "mtime": 1785383660.0,
+      "ref_doc_id": "aea6636e-22f1-48bc-beab-da8410a5179b",
+      "node_ids": [
+        "65b171d3-8549-408a-a2cd-a855013749e4"
+      ]
+    },
+    "docs/平安境内紧急医疗救援服务条款.pdf": {
+      "hash": "sha256:34b9508d02d29d5971c69cdc3e8439eb612eb4cc276475d8967e5bd4114bb112",
+      "size": 162891,
+      "mtime": 1785383660.0,
+      "ref_doc_id": "61be9dcc-3397-45be-9ae1-3eea7f93210e",
+      "node_ids": [
+        "d7b01554-121d-48df-8766-b17652afae0c",
+        "7268c053-0ff5-45ec-873a-b5b4120ab8f9",
+        "e49993d5-7801-44ec-8678-3b0b8e98e861"
+      ]
+    },
+    "docs/平安附加疾病身故保险条款.pdf": {
+      "hash": "sha256:a128b083f318b56059169a9ac14038f13d580be3159eb8ddda076ca41e9095f5",
+      "size": 543062,
+      "mtime": 1785383660.0,
+      "ref_doc_id": "88440d32-91ec-4433-8064-b5eae624f222",
+      "node_ids": [
+        "51abf7f1-16a7-4ca4-bc8e-a5dd95e830c4",
+        "fb195f7b-c26b-4a24-9b66-ea33a6319daf"
+      ]
+    }
+  },
+  "version": 1
+}

@@ -1,0 +1,38 @@
+[
+  {"query": "雇主责任险的保障范围是什么", "relevant_files": ["2-雇主责任险.txt"]},
+  {"query": "施工保保什么工程", "relevant_files": ["5-施工保.txt"]},
+  {"query": "财产一切险是什么保险", "relevant_files": ["6-财产一切险.txt"]},
+  {"query": "亚马逊卖家为什么要买商业综合责任保险", "relevant_files": ["1-平安商业综合责任保险（亚马逊）.txt"]},
+  {"query": "平安企业团体综合意外险有什么特色", "relevant_files": ["3-平安企业团体综合意外险.txt"]},
+
+  {"query": "工伤保险条例第十四条", "relevant_files": ["2-雇主责任险.txt"]},
+  {"query": "免赔额100元", "relevant_files": ["3-平安企业团体综合意外险.txt"]},
+  {"query": "销售额超过10000美元", "relevant_files": ["1-平安商业综合责任保险（亚马逊）.txt"]},
+  {"query": "拨打95511理赔", "relevant_files": ["2-雇主责任险.txt", "6-财产一切险.txt"]},
+  {"query": "USD100万赔偿限额", "relevant_files": ["1-平安商业综合责任保险（亚马逊）.txt"]},
+  {"query": "180天内身故伤残", "relevant_files": ["3-平安企业团体综合意外险.txt"]},
+  {"query": "工程造价50万至1亿元", "relevant_files": ["5-施工保.txt"]},
+  {"query": "赔付超4000万元", "relevant_files": ["6-财产一切险.txt"]},
+
+  {"query": "雇主责任险94款", "relevant_files": ["2-雇主责任险.txt"]},
+  {"query": "雇主责任险A款B款有什么区别", "relevant_files": ["2-雇主责任险.txt"]},
+  {"query": "猝死身故保障", "relevant_files": ["3-平安企业团体综合意外险.txt", "平安附加疾病身故保险条款.pdf"]},
+  {"query": "亚马逊附加被保险人", "relevant_files": ["1-平安商业综合责任保险（亚马逊）.txt"]},
+  {"query": "雇主安心保", "relevant_files": ["4-雇主安心保.txt"]},
+  {"query": "平安装修保", "relevant_files": ["7-平安装修保.txt"]},
+
+  {"query": "哪些险种包含医疗费用保障", "relevant_files": ["2-雇主责任险.txt", "3-平安企业团体综合意外险.txt", "5-施工保.txt"]},
+  {"query": "理赔流程怎么操作", "relevant_files": ["1-平安商业综合责任保险（亚马逊）.txt", "2-雇主责任险.txt", "6-财产一切险.txt"]},
+  {"query": "意外身故伤残赔付", "relevant_files": ["3-平安企业团体综合意外险.txt", "平安产险交通出行意外伤害保险（互联网版）产品说明.pdf"]},
+  {"query": "医疗费用垫付服务", "relevant_files": ["3-平安企业团体综合意外险.txt", "平安境内紧急医疗救援服务条款.pdf"]},
+
+  {"query": "免赔额", "relevant_files": ["1-平安商业综合责任保险（亚马逊）.txt", "3-平安企业团体综合意外险.txt"]},
+  {"query": "续保优惠", "relevant_files": ["1-平安商业综合责任保险（亚马逊）.txt"]},
+  {"query": "伤残赔偿金", "relevant_files": ["2-雇主责任险.txt", "3-平安企业团体综合意外险.txt"]},
+  {"query": "火灾赔偿案例", "relevant_files": ["6-财产一切险.txt"]},
+
+  {"query": "境内紧急医疗救援服务", "relevant_files": ["平安境内紧急医疗救援服务条款.pdf"]},
+  {"query": "交通工具意外伤害保险条款", "relevant_files": ["平安产险交通工具意外伤害保险（互联网版）条款.pdf"]},
+  {"query": "团体综合意外险适用条款", "relevant_files": ["3-平安企业团体综合意外险.txt", "平安企业团体综合意外险(互联网版)适用条款.pdf"]},
+  {"query": "交通出行意外伤害保险产品说明", "relevant_files": ["平安产险交通出行意外伤害保险（互联网版）产品说明.pdf"]}
+]
